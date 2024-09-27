@@ -1,6 +1,6 @@
 # Sobre-mim
 Meu chamo Igor, estou no segundo período de ciência da computação. e atualmente estou aprendendo a base de linguagens como Python, Java e etc.
-mas meu foco está sendo no aprendizado de python e também estou me preprarando para pegar POO em Java.
+mas meu foco está sendo no aprendizado de python e também estou me preparando para pegar POO em Java.
 
 # Meus Objetivos
 sobre os meus objetivos, eu espero que eu consiga realizar meu sonho de atuar como segurança da informação. Para isso eu tenho que entender computação em geral, por isso optei por fazer um curso que me ajude nisso. 
